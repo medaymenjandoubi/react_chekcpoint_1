@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #F5F5DC;
 }
 
 .App-logo {
@@ -21,7 +22,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.mb-33 {
+  position: relative;
+    margin-left: 480px;
+    margin-right: 502px;
+}
+.formcss{
+  border-radius: 30px;
+  width: 70%;
+  margin-top: 50px;
+  margin-left: 300px; 
+}
+.test{
+  width: 90%;
+  height: 810px;
+}
+.formcss{
+  background-color: gray;
+  opacity: inherit;
+}
+.text{
+  color: aliceblue;
+  text-size-adjust: 18px;
+}
+.cardgroup {
+  margin-top: 50px;
+}
+.cardgroup :hover {
+  color: #00BFFF;
+  background-color: #282c34;
+}
+.navvy {
+  background-color: #282c34;
+}
+
